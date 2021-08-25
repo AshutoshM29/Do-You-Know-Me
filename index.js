@@ -79,4 +79,4 @@ for (var j=0 ; j<highScore.length ; j++)
 }
 
 console.log("If you have beaten the highscore, send me the screenshot of it and I'll update the LEADERBOARD." + "\n");
-console.log("Thank you " + userName + "for playing the quiz.")
+console.log("Thank you " + userName + " for playing the quiz.")
